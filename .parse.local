@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Noice": {
+      "applicationId": "Z7x4BZAtSYTYY84NOffRuJqz9RX72sl0uGwJrhde"
+    },
+    "_default": {
+      "link": "Noice"
+    }
+  }
+}
